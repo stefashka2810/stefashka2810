@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm STEFANIA 👋</h1>
-<h3 align="center">Frontend Developer | HSE student, FCS SE '27</h3>
-
 <p align="center">
   I build responsive, user-focused web applications with modern frontend tools and clean architecture.
 </p>
